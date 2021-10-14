@@ -1,4 +1,4 @@
-## Processamento Gráfico-Lista 1
+## Processamento Gráfico - Lista 1
 
 # Questão 1 - O que é a GLSL? Quais os dois tipos de shaders são obrigatórios no pipeline programávelda versão atual que trabalhamos em aula e o que eles processam?
 
